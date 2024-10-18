@@ -3,6 +3,6 @@ This project contains the solutions to the exercises of the class "Sysstems Biol
 
 
 <p float="left">
-  <img src="/home/vhucke/Projects/Python_Projects/Systems_Biology/figures/szr_gillespie.png" width="320" />
-  <img src="/home/vhucke/Projects/Python_Projects/Systems_Biology/figures/szr_ode.png" width="320" /> 
+  <img src="https://github.com/Veit21/Systems_Biology/blob/master/figures/szr_gillespie.png" width="320" />
+  <img src="https://github.com/Veit21/Systems_Biology/blob/master/figures/szr_ode.png" width="320" /> 
 </p>
